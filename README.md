@@ -1,4 +1,4 @@
-# AutoSizeTextView
+# ExpandableTextView
 
 <p><img src="art/2.png" width="25%" />
 <img src="art/1.png" width="25%" /></p>
